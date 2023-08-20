@@ -10,7 +10,7 @@ I'm a Software Developer. I'm passionate about technologies and love to learn ne
 Here are a few things I've picked up along my learning journey.
 
 - Programming languages : <br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FFA518) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=openjdk) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FFA518) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue) 
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) -->
 
 
@@ -25,7 +25,7 @@ Here are a few things I've picked up along my learning journey.
 <br />
 
 - Tool : <br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=007ACC)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&Color=white) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=007ACC)
 
 
 ## 📊 Github Stats
